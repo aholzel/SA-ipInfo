@@ -1,0 +1,6 @@
+[]
+access = read : [ * ], write : [ admin ]
+export = system
+version = 6.4.1
+modtime = 1478782340.792733000
+import = DA-ESS-AccessProtection, DA-ESS-Belastingdienst, DA-ESS-EndpointProtection, DA-ESS-IdentityManagement, DA-ESS-NetworkProtection, DA-ESS-ThreatIntelligence, SA-AccessProtection, SA-AuditAndDataProtection, SA-Belastingdienst-Named, SA-ESS-Belastingdienst, SA-EndpointProtection, SA-IP-reputation, SA-IdentityManagement, SA-NetworkProtection, SA-ThreatIntelligence, SA-UEBA, SA-Utils, SA-ipInfo, Splunk_DA-ESS_PCICompliance, Splunk_SA_CIM, Splunk_SA_ExtremeSearch, Splunk_TA_bluecoat-proxysg, Splunk_TA_bro, Splunk_TA_flowfix, Splunk_TA_juniper, Splunk_TA_mcafee, Splunk_TA_nessus, Splunk_TA_nix, Splunk_TA_oracle, Splunk_TA_ossec, Splunk_TA_paloalto, Splunk_TA_sophos, Splunk_TA_sourcefire, Splunk_TA_symantec-ep, Splunk_TA_ueba, Splunk_TA_windows, TA-ESS-Belastingdienst, TA-airdefense, TA-alcatel, TA-cef, TA-fireeye, TA-fortinet, TA-ftp, TA-iplocation_updater, TA-ncircle, TA-nmap, TA-rsa, TA-tippingpoint, TA-trendmicro, TA-user-agents, TA-websense, search
